@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "league/flysystem": "^1.0",
+        "league/flysystem": "^1",
         "sycthexxx/php-sdk": "^3.0"
     },
     "require-dev": {
